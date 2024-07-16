@@ -1,8 +1,0 @@
-,Accident.Number,Injury.Severity,Aircraft.damage,Aircraft.Category,Make,Model,Amateur.Built,Number.of.Engines,Engine.Type,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured
-61961,ENG07RA012,Incident,Minor,Airplane,Dassault-breguet,Falcon 900,No,3.0,Turbo Fan,0.0,0.0,0.0,2.0
-62673,SEA07LA152,Non-Fatal,Substantial,Airplane,Dassault-breguet,Falcon 900,No,3.0,Turbo Fan,0.0,0.0,0.0,15.0
-65695,ERA09CA122,Non-Fatal,Substantial,Airplane,Dassault-breguet,FALCON 50,No,3.0,Turbo Jet,0.0,0.0,0.0,5.0
-69842,DCA11LA045,Non-Fatal,Substantial,Airplane,Airbus,A380,No,4.0,Turbo Fan,0.0,0.0,0.0,576.0
-73222,DCA13LA039,Non-Fatal,Minor,Airplane,Airbus,A340 - 300,No,4.0,Turbo Fan,0.0,0.0,0.0,397.0
-76893,ERA15IA198,Non-Fatal,Minor,Airplane,Dassault-breguet,Falcon 900,No,3.0,Turbo Fan,0.0,0.0,0.0,15.0
-83173,ERA18FA264,Fatal,Substantial,Airplane,Dassault-breguet,FALCON 50,No,3.0,Turbo Fan,2.0,0.0,2.0,0.0
