@@ -53,12 +53,9 @@ See the full analysis in the [Jupyter Notebook](https://github.com/josh-g-grimes
 For additional info, contact Josh Grimes at josh.g.grimes@gmail.comm
 
 # Repository Structure
-|--- data
 
-|--- images
+|--- .gitignore
 
 |--- README.md
-
-|--- Airplane Sales Presentation
 
 |--- notebook.ipynb
