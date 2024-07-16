@@ -59,3 +59,5 @@ For additional info, contact Josh Grimes at josh.g.grimes@gmail.comm
 |--- README.md
 
 |--- notebook.ipynb
+
+|--- presentation
