@@ -54,7 +54,11 @@ For additional info, contact Josh Grimes at josh.g.grimes@gmail.comm
 
 # Repository Structure
 |--- data
+
 |--- images
+
 |--- README.md
+
 |--- Airplane Sales Presentation
+
 |--- notebook.ipynb
