@@ -1,0 +1,68 @@
+,Accident.Number,Injury.Severity,Aircraft.damage,Aircraft.Category,Make,Model,Amateur.Built,Number.of.Engines,Engine.Type,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Minor.Injuries,Total.Uninjured
+155,DCA82AA013,Fatal(2),Destroyed,Airplane,Mcdonnell-douglas,DC-10-30,No,3.0,Turbo Fan,2.0,4.0,24.0,182.0
+230,DCA82AA014,Non-Fatal,Minor,Airplane,Mcdonnell-douglas,DC-10-10,No,3.0,Turbo Fan,0.0,1.0,0.0,154.0
+558,LAX82AA106A,Fatal(6),Destroyed,Airplane,Boeing,KC-135A,No,4.0,Turbo Jet,6.0,0.0,0.0,0.0
+669,LAX82FA119,Non-Fatal,Substantial,Airplane,Boeing,707-123B,No,4.0,Turbo Jet,0.0,0.0,0.0,7.0
+796,CHI82IA117,Incident,Minor,Airplane,Boeing,727-200,No,3.0,Turbo Fan,0.0,0.0,0.0,108.0
+901,FTW82DA139,Non-Fatal,Substantial,Airplane,Boeing,727-200,No,3.0,Turbo Fan,0.0,0.0,0.0,68.0
+908,MIA82IA102,Incident,Minor,Airplane,Lockheed,L-1011,No,3.0,Turbo Fan,0.0,0.0,0.0,152.0
+1343,LAX82FA195,Non-Fatal,Substantial,Airplane,Mcdonnell-douglas,DC10-10,No,3.0,Turbo Fan,0.0,0.0,25.0,113.0
+1834,NYC82IA137,Incident,Minor,Airplane,Boeing,727-233,No,3.0,Turbo Fan,0.0,0.0,0.0,74.0
+1969,LAX82AA259,Non-Fatal,Minor,Airplane,Mcdonnell-douglas,DC-10-10,No,3.0,Turbo Fan,0.0,7.0,19.0,142.0
+2132,NYC82IA170,Incident,Minor,Airplane,Boeing,727-231,No,3.0,Turbo Fan,0.0,0.0,0.0,129.0
+2456,LAX82IA309,Incident,Minor,Airplane,Mcdonnell-douglas,DC-10-30F,No,3.0,Turbo Fan,0.0,0.0,0.0,393.0
+3296,DEN83FA021,Non-Fatal,Substantial,Airplane,Mcdonnell-douglas,DC-10,No,3.0,Turbo Fan,0.0,0.0,0.0,136.0
+3335,FTW83IA044,Incident,Minor,Airplane,Boeing,727-223,No,3.0,Turbo Fan,0.0,0.0,0.0,23.0
+3374,MIA83FA036,Non-Fatal,Substantial,Airplane,Boeing,707-323C,No,4.0,Turbo Fan,0.0,0.0,0.0,116.0
+3423,MIA83IA043,Incident,Minor,Airplane,Boeing,727-225,No,3.0,Turbo Fan,0.0,0.0,0.0,21.0
+3557,FTW83IA086,Incident,Minor,Airplane,Boeing,727-223,No,3.0,Turbo Fan,0.0,0.0,0.0,58.0
+4149,LAX83IA149B,Incident,Minor,Airplane,Lockheed,L-1011,No,3.0,Turbo Fan,0.0,0.0,0.0,588.0
+4150,LAX83IA149A,Incident,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,588.0
+5957,MIA83IA210,Incident,Minor,Airplane,Mcdonnell-douglas,DC-10-10,No,3.0,Turbo Fan,0.0,0.0,0.0,289.0
+6760,CHI84IA041,Incident,Minor,Airplane,Boeing,727-200,No,3.0,Turbo Fan,0.0,0.0,0.0,100.0
+8591,LAX84LA349,Non-Fatal,Substantial,Airplane,Lockheed,L-1011-385-3,No,3.0,Turbo Fan,0.0,0.0,0.0,157.0
+20200,DCA88IA056,Incident,Minor,Airplane,Boeing,747-123,No,4.0,Turbo Fan,0.0,0.0,0.0,258.0
+28159,NYC91IA137,Incident,Minor,Airplane,Boeing,727-214,No,3.0,Turbo Fan,0.0,0.0,0.0,156.0
+31016,DCA92MA044,Non-Fatal,Destroyed,Airplane,Lockheed,L-1011-385-1,No,3.0,Turbo Fan,0.0,1.0,9.0,282.0
+36893,MIA95LA086A,Non-Fatal,Minor,Airplane,Lockheed,L-1011-385,No,3.0,Turbo Fan,0.0,0.0,0.0,339.0
+41773,DCA97WA047A,Non-Fatal,Minor,Airplane,Boeing,747-400,No,4.0,Turbo Fan,0.0,0.0,0.0,573.0
+42415,DCA97MA058,Fatal(228),Destroyed,Airplane,Boeing,747-300,No,4.0,Turbo Fan,228.0,26.0,0.0,0.0
+47870,DCA00MA026,Fatal(3),Destroyed,Airplane,Mcdonnell-douglas,DC-8-71F,No,4.0,Turbo Fan,3.0,0.0,0.0,0.0
+52199,DCA02RA024,Incident,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,0.0
+59362,DCA05MA095,Non-Fatal,Substantial,Airplane,Boeing,747-200,No,4.0,Turbo Fan,0.0,0.0,2.0,338.0
+60409,DCA06FA033,Non-Fatal,Substantial,Airplane,Mcdonnell-douglas,DC10,No,3.0,Turbo Fan,0.0,0.0,0.0,3.0
+61145,DCA06FA058,Non-Fatal,Substantial,Airplane,Boeing,MD-10-10F,No,3.0,Turbo Fan,0.0,0.0,0.0,3.0
+61921,ENG07WA028,Incident,Minor,Airplane,Mcdonnell-douglas,MD11,No,3.0,Turbo Fan,0.0,0.0,0.0,253.0
+61961,ENG07RA012,Incident,Minor,Airplane,Dassault-breguet,FALCON900,No,3.0,Turbo Fan,0.0,0.0,0.0,2.0
+62673,SEA07LA152,Non-Fatal,Substantial,Airplane,Dassault-breguet,Mystere Falcon 900,No,3.0,Turbo Fan,0.0,0.0,0.0,15.0
+64571,ENG08IA027,Non-Fatal,Minor,Airplane,Boeing,MD-11F,No,3.0,Turbo Fan,0.0,0.0,0.0,0.0
+64727,DCA08FA075,Non-Fatal,Substantial,Airplane,Mcdonnell-douglas,MD-10,No,3.0,Turbo Fan,0.0,0.0,0.0,3.0
+65318,SEA08GA194,Fatal,Destroyed,Airplane,Lockheed,P2V-7,No,4.0,Turbo Jet,3.0,0.0,0.0,0.0
+65695,ERA09CA122,Non-Fatal,Substantial,Airplane,Dassault-breguet,FALCON 50,No,3.0,Turbo Jet,0.0,0.0,0.0,5.0
+65785,CEN09LA114,Non-Fatal,Substantial,Airplane,Boeing,747-212B,No,4.0,Turbo Fan,0.0,0.0,0.0,3.0
+66139,ENG09IA004,Non-Fatal,Minor,Airplane,Mcdonnell-douglas,DC-10-30,No,3.0,Turbo Fan,0.0,0.0,0.0,4.0
+66336,DCA09FA048,Non-Fatal,Substantial,Airplane,Boeing,DC-10,No,3.0,Turbo Fan,0.0,11.0,1.0,168.0
+67633,ENG10IA016,Non-Fatal,Minor,Airplane,Mcdonnell-douglas,DC8,No,4.0,Turbo Fan,0.0,0.0,0.0,0.0
+67763,DCA10CA032,Non-Fatal,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,25.0,1.0,236.0
+68104,DCA10WA055,Non-Fatal,Minor,Airplane,Boeing,747-300 SERIES,No,4.0,Turbo Jet,0.0,0.0,0.0,3.0
+68118,DCA10WA056,Non-Fatal,Minor,Airplane,Boeing,747-422,No,4.0,Turbo Fan,0.0,0.0,0.0,246.0
+68169,DCA10CA061,Non-Fatal,Substantial,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,3.0
+69006,DCA10WA098,Non-Fatal,Minor,Airplane,Mcdonnell-douglas,MD-11F,No,3.0,Turbo Fan,0.0,0.0,0.0,2.0
+69842,DCA11LA045,Non-Fatal,Substantial,Airplane,Airbus,A380,No,4.0,Turbo Fan,0.0,0.0,0.0,576.0
+70018,DCA11PA075,Non-Fatal,Substantial,Airplane,Boeing,707-321B,No,4.0,Turbo Fan,0.0,3.0,0.0,0.0
+71033,ENG12IA003,Non-Fatal,Minor,Airplane,Boeing,747-451,No,4.0,Turbo Jet,0.0,0.0,0.0,394.0
+71944,DCA12CA082,Non-Fatal,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,24.0
+71963,WPR12GA243,Fatal,Substantial,Airplane,Lockheed,P2V-7,No,4.0,Turbo Jet,2.0,0.0,0.0,0.0
+73156,DCA13CA035,Non-Fatal,Substantial,Airplane,Mcdonnell-douglas,MD-11F,No,3.0,Turbo Fan,0.0,0.0,0.0,3.0
+73222,DCA13LA039,Non-Fatal,Minor,Airplane,Airbus,A340 - 300,No,4.0,Turbo Fan,0.0,0.0,0.0,397.0
+73356,ENG13IA016,Non-Fatal,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,3.0
+73577,DCA13WA080,Non-Fatal,Minor,Airplane,Boeing,747-400,No,4.0,Turbo Fan,0.0,0.0,0.0,146.0
+73614,DCA13MA081,Fatal,Destroyed,Airplane,Boeing,747-400 BCF,No,4.0,Turbo Jet,7.0,0.0,0.0,0.0
+73729,ENG13IA027,Non-Fatal,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,3.0
+76893,ERA15IA198,Non-Fatal,Minor,Airplane,Dassault-breguet,MYSTERE FALCON 900,No,3.0,Turbo Fan,0.0,0.0,0.0,15.0
+77825,ENG16IA001,Non-Fatal,Minor,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,367.0
+78308,DCA16LA096,Non-Fatal,Substantial,Airplane,Lockheed,382G,No,4.0,Turbo Prop,0.0,0.0,0.0,5.0
+79690,DCA17MA022,Non-Fatal,Substantial,Airplane,Mcdonnell-douglas,MD 10-10F,No,3.0,Turbo Fan,0.0,0.0,0.0,2.0
+81117,ENG17WA034,Non-Fatal,Substantial,Airplane,Boeing,747,No,4.0,Turbo Fan,0.0,0.0,0.0,6.0
+83173,ERA18FA264,Fatal,Substantial,Airplane,Dassault-breguet,FALCON 50,No,3.0,Turbo Fan,2.0,0.0,2.0,0.0
+83654,DCA19LA070,Non-Fatal,Substantial,Airplane,Boeing,727 200,No,3.0,Turbo Fan,0.0,0.0,0.0,4.0
